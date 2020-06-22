@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://sammuellll.github.io/Codingbook-Gunlugum/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.codingbook-web-blog.tk/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://sammuellll.github.io/Codingbook-Gunlugum/</loc>
+<loc>https://www.codingbook-web-blog.tk/</loc>
 </url>
 <url>
-<loc>https://sammuellll.github.io/Codingbook-Gunlugum/authors/ibrahim-sayhan/</loc>
+<loc>https://www.codingbook-web-blog.tk/authors/ibrahim-sayhan/</loc>
 </url>
 <url>
-<loc>https://sammuellll.github.io/Codingbook-Gunlugum/codingbookorg-2/</loc>
+<loc>https://www.codingbook-web-blog.tk/cloud-path/</loc>
+<lastmod>2020-06-22T14:08:50+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.codingbook-web-blog.tk/codingbookorg-2/</loc>
 <lastmod>2020-06-22T13:49:17+02:00</lastmod>
 </url>
 </urlset>
