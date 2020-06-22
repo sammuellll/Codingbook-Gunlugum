@@ -9,5 +9,19 @@
         "name": "Ibrahim Sayhan"
     },
     "items": [
+        {
+            "id": "https://sammuellll.github.io/Codingbook-Gunlugum/codingbookorg-2.html",
+            "url": "https://sammuellll.github.io/Codingbook-Gunlugum/codingbookorg-2.html",
+            "title": "codingbook.org",
+            "summary": "Bugun sizlere codingbook isimli dernekten bahsedecegim. Bu dernek ucretsiz olarak yazilim dersleri veren gonullulerden olusuyor. Rabbim ebeden onlardan razi olsun. Bu program daha cok Amerika baz alinarak hazirlanmis olsada, Avrupa`daki gonullulerin de katilimiyla daha effectif bir kurs oldu. Kursun ilk periodu mayis 2019 ayinda yapildi.",
+            "content_html": "<p>Bugun sizlere codingbook isimli dernekten bahsedecegim. Bu dernek ucretsiz olarak yazilim dersleri veren gonullulerden olusuyor. Rabbim ebeden onlardan razi olsun.</p>\n<p>Bu program daha cok Amerika baz alinarak  hazirlanmis olsada, Avrupa`daki gonullulerin de katilimiyla daha effectif bir kurs oldu.</p>\n<p>Kursun ilk periodu mayis 2019 ayinda yapildi. Bu surede bizlere python yazilim dili anlatildi.  </p>",
+            "author": {
+                "name": "Ibrahim Sayhan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-22T13:26:37+02:00",
+            "date_modified": "2020-06-22T13:26:37+02:00"
+        }
     ]
 }
