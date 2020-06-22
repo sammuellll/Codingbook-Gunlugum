@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Codingbook Gunlugum",
     "description": "",
-    "home_page_url": "https://www.codingbook-web-blog.tk",
-    "feed_url": "https://www.codingbook-web-blog.tk/feed.json",
+    "home_page_url": "http://www.codingbook-web-blog.tk",
+    "feed_url": "http://www.codingbook-web-blog.tk/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ibrahim Sayhan"
     },
     "items": [
         {
-            "id": "https://www.codingbook-web-blog.tk/cloud-path/index.html",
-            "url": "https://www.codingbook-web-blog.tk/cloud-path/index.html",
+            "id": "http://www.codingbook-web-blog.tk/cloud-path/",
+            "url": "http://www.codingbook-web-blog.tk/cloud-path/",
             "title": "Cloud Path",
             "summary": "Cloud path de ilk dersimizde Virtual Machine uzerine kurdugumuz Centos Linux`a puppy araciligiyla baglanip, puppy`nin bize sundugu terminali kullanarak, Linux komutlari calistik. Temel linux comutlarini ogrendik. ",
             "content_html": "<p>Cloud path de ilk dersimizde Virtual Machine uzerine kurdugumuz Centos Linux`a puppy araciligiyla baglanip, puppy`nin bize sundugu terminali kullanarak, Linux komutlari calistik. Temel linux comutlarini ogrendik.  </p>",
@@ -20,12 +20,12 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-22T14:09:18+02:00",
-            "date_modified": "2020-06-22T14:09:18+02:00"
+            "date_published": "2020-06-22T14:16:40+02:00",
+            "date_modified": "2020-06-22T14:16:40+02:00"
         },
         {
-            "id": "https://www.codingbook-web-blog.tk/codingbookorg-2/index.html",
-            "url": "https://www.codingbook-web-blog.tk/codingbookorg-2/index.html",
+            "id": "http://www.codingbook-web-blog.tk/codingbookorg-2/",
+            "url": "http://www.codingbook-web-blog.tk/codingbookorg-2/",
             "title": "codingbook.org",
             "summary": "Bugun sizlere codingbook isimli dernekten bahsedecegim. Bu dernek ucretsiz olarak yazilim dersleri veren gonullulerden olusuyor. Rabbim ebeden onlardan razi olsun. Bu program daha cok Amerika baz alinarak hazirlanmis olsada, Avrupa`daki gonullulerin de katilimiyla daha effectif bir kurs oldu. Kursun ilk periodu mayis 2019 ayinda yapildi.",
             "content_html": "<p>Bugun sizlere codingbook isimli dernekten bahsedecegim. Bu dernek ucretsiz olarak yazilim dersleri veren gonullulerden olusuyor. Rabbim ebeden onlardan razi olsun.</p>\n<p>Bu program daha cok Amerika baz alinarak  hazirlanmis olsada, Avrupa`daki gonullulerin de katilimiyla daha effectif bir kurs oldu.</p>\n<p>Kursun ilk periodu mayis 2019 ayinda yapildi. Bu surede bizlere python yazilim dili anlatildi.  </p>\n<p>30 mayis ta yapilan sinav sonrasinda, Haziran ayinda baslayacak olan program icin secmeler yapildi. </p>\n<p>Bu sinav sonrasinda, sinavada basarili olanlarla beraber, 4 farkli path uzerinden devam edilecek. Python, java, Could Computing ve Test Otomation pathleri uzerinden devam ediliyor. Bu dort farkli pathden istedigimize veya istediklerimize kayidimiz yaptirip, yazilim konusunda kendimizi biraz daha ileri tasiyabiliriz.</p>",
@@ -34,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-22T14:09:18+02:00",
-            "date_modified": "2020-06-22T14:09:18+02:00"
+            "date_published": "2020-06-22T14:16:40+02:00",
+            "date_modified": "2020-06-22T14:16:40+02:00"
         }
     ]
 }
