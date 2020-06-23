@@ -20,23 +20,22 @@
             },
             "tags": [
             ],
-            "date_published": "2020-06-24T00:47:04+02:00",
-            "date_modified": "2020-06-24T00:47:04+02:00"
+            "date_published": "2020-06-24T00:50:29+02:00",
+            "date_modified": "2020-06-24T00:50:29+02:00"
         },
         {
             "id": "http://www.codingbook-web-blog.tk/codingbookorg-2/",
             "url": "http://www.codingbook-web-blog.tk/codingbookorg-2/",
             "title": "codingbook.org",
             "summary": "Bugün sizlere codingbook isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun. Bu program daha çok Amerika baz alınarak hazırlanmış olsa da Avrupa`daki gönüllülerin de katılımıyla daha efektif bir kurs oldu. Kursun ilk periyodu mayıs ayında yapıldı.",
-            "content_html": "<p>Bugün sizlere codingbook isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun.</p>\n<p>Bu program daha çok Amerika baz alınarak hazırlanmış olsa da Avrupa`daki gönüllülerin de katılımıyla daha efektif bir kurs oldu.</p>\n<p>Kursun ilk periyodu mayıs ayında yapıldı. Bu surede bizlere Python yazılım dili anlatıldı.  </p>\n<p>30 Mayıs’ta yapılan sınav sonrasında, haziran ayında başlayacak olan program için seçmeler yapıldı. </p>\n<p>Bu sınav sonrasında, sınavda başarılı olanlarla beraber, 4 farklı path üzerinden devam edilecek. Python, Java, Cloud Computing ve Test Otomation pathleri üzerinden devam ediliyor. Bu dört farklı pathden istediğimize veya istediklerimize kaydımızı yaptırıp, yazılım konusunda kendimizi biraz daha ileri taşıyabiliriz.</p>\n<p> </p>",
-            "image": "http://www.codingbook-web-blog.tk/media/posts/2/FullColor-IconOnly-1280x1024-72dpi.jpg",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"http://www.codingbook-web-blog.tk/media/posts/2/FullColor-IconOnly-1280x1024-72dpi-2.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-xs.jpg 300w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-sm.jpg 480w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-md.jpg 768w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-lg.jpg 1024w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-xl.jpg 1360w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-2xl.jpg 1600w\"  alt=\"cb\" width=\"120\" height=\"120\"></figure>Bugün sizlere <a href=\"https://codingbook.org/\">codingbook</a> isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun.</p>\n<p>Bu program daha çok Amerika baz alınarak hazırlanmış olsa da Avrupa`daki gönüllülerin de katılımıyla daha efektif bir kurs oldu.</p>\n<p>Kursun ilk periyodu mayıs ayında yapıldı. Bu surede bizlere Python yazılım dili anlatıldı.  </p>\n<p>30 Mayıs’ta yapılan sınav sonrasında, haziran ayında başlayacak olan program için seçmeler yapıldı. </p>\n<p>Bu sınav sonrasında, sınavda başarılı olanlarla beraber, 4 farklı path üzerinden devam edilecek. Python, Java, Cloud Computing ve Test Otomation pathleri üzerinden devam ediliyor. Bu dört farklı pathden istediğimize veya istediklerimize kaydımızı yaptırıp, yazılım konusunda kendimizi biraz daha ileri taşıyabiliriz.</p>\n<p> </p>",
             "author": {
                 "name": "Ibrahim Sayhan"
             },
             "tags": [
             ],
-            "date_published": "2020-06-24T00:47:04+02:00",
-            "date_modified": "2020-06-24T00:47:04+02:00"
+            "date_published": "2020-06-24T00:50:29+02:00",
+            "date_modified": "2020-06-24T00:50:29+02:00"
         }
     ]
 }

@@ -17,7 +17,7 @@
         <link href="http://www.codingbook-web-blog.tk/cloud-path/"/>
         <id>http://www.codingbook-web-blog.tk/cloud-path/</id>
 
-        <updated>2020-06-24T00:47:04+02:00</updated>
+        <updated>2020-06-24T00:50:29+02:00</updated>
             <summary>
                 <![CDATA[
                     Cloud path de ilk dersimizde Virtual Machine uzerine kurdugumuz Centos Linux`a puppy araciligiyla baglanip, puppy`nin bize sundugu terminali kullanarak, Linux komutlari calistik. Temel linux comutlarini ogrendik. 
@@ -37,17 +37,15 @@
         <link href="http://www.codingbook-web-blog.tk/codingbookorg-2/"/>
         <id>http://www.codingbook-web-blog.tk/codingbookorg-2/</id>
 
-        <updated>2020-06-24T00:47:04+02:00</updated>
+        <updated>2020-06-24T00:50:29+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.codingbook-web-blog.tk/media/posts/2/FullColor-IconOnly-1280x1024-72dpi.jpg" alt="" />
                     Bugün sizlere codingbook isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun. Bu program daha çok Amerika baz alınarak hazırlanmış olsa da Avrupa`daki gönüllülerin de katılımıyla daha efektif bir kurs oldu. Kursun ilk periyodu mayıs ayında yapıldı.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.codingbook-web-blog.tk/media/posts/2/FullColor-IconOnly-1280x1024-72dpi.jpg" alt="" />
-                <p>Bugün sizlere codingbook isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun.</p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="http://www.codingbook-web-blog.tk/media/posts/2/FullColor-IconOnly-1280x1024-72dpi-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-xs.jpg 300w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-sm.jpg 480w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-md.jpg 768w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-lg.jpg 1024w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-xl.jpg 1360w ,http://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-2xl.jpg 1600w"  alt="cb" width="120" height="120"></figure>Bugün sizlere <a href="https://codingbook.org/">codingbook</a> isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun.</p>
 <p>Bu program daha çok Amerika baz alınarak hazırlanmış olsa da Avrupa`daki gönüllülerin de katılımıyla daha efektif bir kurs oldu.</p>
 <p>Kursun ilk periyodu mayıs ayında yapıldı. Bu surede bizlere Python yazılım dili anlatıldı.  </p>
 <p>30 Mayıs’ta yapılan sınav sonrasında, haziran ayında başlayacak olan program için seçmeler yapıldı. </p>
