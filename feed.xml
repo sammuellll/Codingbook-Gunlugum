@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Codingbook Gunlugum</title>
-    <link href="https://www.codingbook-web-blog.tk/feed.xml" rel="self" />
-    <link href="https://www.codingbook-web-blog.tk" />
+    <link href="https://codingbook-web-blog.tk/feed.xml" rel="self" />
+    <link href="https://codingbook-web-blog.tk" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Ibrahim Sayhan</name>
     </author>
-    <id>https://www.codingbook-web-blog.tk</id>
+    <id>https://codingbook-web-blog.tk</id>
 
     <entry>
         <title>Cloud Path</title>
         <author>
             <name>Ibrahim Sayhan</name>
         </author>
-        <link href="https://www.codingbook-web-blog.tk/cloud-path/"/>
-        <id>https://www.codingbook-web-blog.tk/cloud-path/</id>
+        <link href="https://codingbook-web-blog.tk/cloud-path/"/>
+        <id>https://codingbook-web-blog.tk/cloud-path/</id>
 
-        <updated>2020-06-24T09:45:36+02:00</updated>
+        <updated>2020-08-07T10:26:29+02:00</updated>
             <summary>
                 <![CDATA[
                     Cloud path de ilk dersimizde Virtual Machine uzerine kurdugumuz Centos Linux`a puppy araciligiyla baglanip, puppy`nin bize sundugu terminali kullanarak, Linux komutlari calistik. Temel linux comutlarini ogrendik. 
@@ -34,10 +34,10 @@
         <author>
             <name>Ibrahim Sayhan</name>
         </author>
-        <link href="https://www.codingbook-web-blog.tk/codingbookorg-2/"/>
-        <id>https://www.codingbook-web-blog.tk/codingbookorg-2/</id>
+        <link href="https://codingbook-web-blog.tk/codingbookorg-2/"/>
+        <id>https://codingbook-web-blog.tk/codingbookorg-2/</id>
 
-        <updated>2020-06-24T09:45:36+02:00</updated>
+        <updated>2020-08-07T10:26:29+02:00</updated>
             <summary>
                 <![CDATA[
                     Bugün sizlere codingbook isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun. Bu program daha çok Amerika baz alınarak hazırlanmış olsa da Avrupa`daki gönüllülerin de katılımıyla daha efektif bir kurs oldu. Kursun ilk periyodu mayıs ayında yapıldı.
@@ -45,7 +45,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://www.codingbook-web-blog.tk/media/posts/2/FullColor-IconOnly-1280x1024-72dpi-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-xs.jpg 300w ,https://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-sm.jpg 480w ,https://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-md.jpg 768w ,https://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-lg.jpg 1024w ,https://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-xl.jpg 1360w ,https://www.codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-2xl.jpg 1600w"  alt="cb" width="120" height="120"></figure>Bugün sizlere <a href="https://codingbook.org/">codingbook</a> isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun.</p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://codingbook-web-blog.tk/media/posts/2/FullColor-IconOnly-1280x1024-72dpi-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-xs.jpg 300w ,https://codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-sm.jpg 480w ,https://codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-md.jpg 768w ,https://codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-lg.jpg 1024w ,https://codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-xl.jpg 1360w ,https://codingbook-web-blog.tk/media/posts/2/responsive/FullColor-IconOnly-1280x1024-72dpi-2-2xl.jpg 1600w"  alt="cb" width="120" height="120"></figure>Bugün sizlere <a href="https://codingbook.org/">codingbook</a> isimli dernekten bahsedeceğim. Bu dernek ücretsiz olarak yazılım dersleri veren gönüllülerden oluşuyor. Rabbim ebeden onlardan razı olsun.</p>
 <p>Bu program daha çok Amerika baz alınarak hazırlanmış olsa da Avrupa`daki gönüllülerin de katılımıyla daha efektif bir kurs oldu.</p>
 <p>Kursun ilk periyodu mayıs ayında yapıldı. Bu surede bizlere Python yazılım dili anlatıldı.  </p>
 <p>30 Mayıs’ta yapılan sınav sonrasında, haziran ayında başlayacak olan program için seçmeler yapıldı. </p>
